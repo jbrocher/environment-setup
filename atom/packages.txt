@@ -1,0 +1,8 @@
+atom-beautify
+project-manager
+php-integrator-base
+php-integrator-annotations
+php-integrator-autocomplete-plus
+php-integrator-navigation
+php-integrator-refactoring
+php-debug

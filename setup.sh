@@ -1,5 +1,6 @@
 #!/bin/sh
 cat setup.txt
+
 echo "installing lamp"
 ./lamp/lamp/#!/bin/sh
 export php_version
